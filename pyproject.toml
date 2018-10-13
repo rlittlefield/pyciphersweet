@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "pyciphersweet"
+version = "0.1.0"
+description = "Python implementation of ciphersweet"
+authors = ["J. Ryan Littlefield"]
+
+[tool.poetry.dependencies]
+python = "*"
+pysodium = "^0.7.0"
+cryptography = "^2.3"
+
+[tool.poetry.dev-dependencies]
+pytest = "^3.8"
