@@ -1,8 +1,12 @@
 [tool.poetry]
-name = "pyciphersweet"
+name = "ciphersweet"
 version = "0.1.0"
 description = "Python implementation of ciphersweet"
-authors = ["J. Ryan Littlefield"]
+authors = ["J. Ryan Littlefield <ryan@ryanlittlefield.com>"]
+readme = 'README.md'
+repository = "https://github.com/rlittlefield/pyciphersweet"
+license = "MIT"
+
 
 [tool.poetry.dependencies]
 python = "*"
