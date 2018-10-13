@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ciphersweet"
-version = "0.1.0"
+version = "0.1.1"
 description = "Python implementation of ciphersweet"
 authors = ["J. Ryan Littlefield <ryan@ryanlittlefield.com>"]
 readme = 'README.md'
